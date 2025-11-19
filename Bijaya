@@ -1,0 +1,3 @@
+Jmeter API Service Test:
+HTTP Methods: GET, POST, PUT, PATCH, DELETE
+Testing Types: Load, Stress, Spike and Endurance
