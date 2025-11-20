@@ -44,7 +44,7 @@ This GitHub Actions workflow performs the following steps manually on every push
 
 | Service    | Purpose                        | Port | Docker Image                             |
 |------------|--------------------------------|------|------------------------------------------|
-| HTTPBin    | Mock API server for testing    | 8088   | `kennethreitz/httpbin`                 |
+| HTTPBin    | Mock API server for testing    | 8088 | `kennethreitz/httpbin`                    |
 | cAdvisor   | Container performance metrics  | 8080 | `gcr.io/cadvisor/cadvisor:latest`        |
 
 ---
