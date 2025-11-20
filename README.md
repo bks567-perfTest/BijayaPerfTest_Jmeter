@@ -51,8 +51,8 @@ This GitHub Actions workflow performs the following steps manually on every push
 
 ## 🧰 Installed Components
 
-| Component | Version / Source                             |
-|------------|------------------ --------------------------|
+| Component  | Version / Source                            |
+|------------|---------------------------------------------|
 | JMeter     | 5.6.3 (from Apache archive)                 |
 | Java       | OpenJDK 17                                  |
 | JMeter Plugins | Plugins Manager + Ultimate Thread Group |
