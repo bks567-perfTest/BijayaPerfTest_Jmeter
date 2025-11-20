@@ -11,7 +11,7 @@ It provisions **HTTPBin** as a mock API service and **cAdvisor** for container m
 This GitHub Actions workflow performs the following steps manually on every push or pull request to the `main` branch:
 
 1. **Set up environment**
-   - Runs on `ubuntu-22.04`
+   - Runs on `Ubuntu 18.04.1 LTS`
    - Installs JDK 17, JMeter, and required plugins
 
 2. **Start dependent services**
