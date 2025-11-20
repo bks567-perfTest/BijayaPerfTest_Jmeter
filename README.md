@@ -63,11 +63,11 @@ Application_url inside container: curl http://localhost:8080/get
 Apache Jmeter Download: https://dlcdn.apache.org//jmeter/binaries/apache-jmeter-5.6.3.zip
 
 ## git commands used:
--git init
--git add .
--git status
--git commit -m "changes"
--git push -u origin main --force
+   -git init
+   -git add .
+   -git status
+   -git commit -m "changes"
+   -git push -u origin main --force
 
 
 ---
