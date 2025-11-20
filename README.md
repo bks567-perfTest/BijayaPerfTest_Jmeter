@@ -64,9 +64,13 @@ Apache Jmeter Download: https://dlcdn.apache.org//jmeter/binaries/apache-jmeter-
 
 ## git commands used:
    -git init
+   
    -git add .
+   
    -git status
+   
    -git commit -m "changes"
+   
    -git push -u origin main --force
 
 
