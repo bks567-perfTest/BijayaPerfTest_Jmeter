@@ -1,6 +1,0 @@
-timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
-1763554039206,62,JK01_DELETERequest_gunicorn,200,OK,BaseScript 1-1,text,true,,694,229,1,1,http://localhost/delete,51,0,31
-1763554040663,6,JK01_GETRequest_gunicorn,200,OK,BaseScript 1-1,text,true,,447,115,1,1,http://localhost/get,6,0,0
-1763554041683,5,JK01_PATCHRequest_gunicorn,200,OK,BaseScript 1-1,text,true,,693,227,1,1,http://localhost/patch,5,0,0
-1763554042699,8,JK01_POSTRequest_gunicorn,200,OK,BaseScript 1-1,text,true,,692,225,1,1,http://localhost/post,8,0,0
-1763554043718,6,JK01_POSTRequest_gunicorn,200,OK,BaseScript 1-1,text,true,,691,223,1,1,http://localhost/put,5,0,0
