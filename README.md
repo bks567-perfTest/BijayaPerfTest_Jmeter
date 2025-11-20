@@ -57,4 +57,8 @@ This GitHub Actions workflow performs the following steps manually on every push
 | Java       | OpenJDK 17                                  |
 | JMeter Plugins | Plugins Manager + Ultimate Thread Group |
 
+## Reference urls:
+Application_url: http://localhost:88/
+Apache Jmeter Download: 
+
 ---
