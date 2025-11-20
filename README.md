@@ -59,6 +59,8 @@ This GitHub Actions workflow performs the following steps manually on every push
 
 ## Reference urls:
 Application_url: http://localhost:88/
-Apache Jmeter Download: 
+Application_url inside container: curl http://localhost:8080/get
+Apache Jmeter Download: https://dlcdn.apache.org//jmeter/binaries/apache-jmeter-5.6.3.zip
+
 
 ---
